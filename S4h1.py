@@ -11,3 +11,4 @@ def bmi_result(height,weight):
 	else:
 		print(' you are in healthy range')
 bmi_result(1.65,75)
+this line is added on 19/08/2024 at 10:48 pm
