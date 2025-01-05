@@ -5,3 +5,4 @@ b=['majid','mehdi','mohamad']
 c=['kahdijeh', 'ahmad']
 d=a+b+c
 print(d[:-1:2])
+ this line is added on 05/01/2025 @ 5:23 pm
